@@ -1,0 +1,4 @@
+Nombre: Juan Denilson
+Apellido: Mamani Quispe
+Grupo: DataStats
+Rol o responsabilidad principal: Análisis de resultados
